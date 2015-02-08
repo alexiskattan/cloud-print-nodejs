@@ -27,7 +27,6 @@
 	},
     "dependencies":
     {
-        "googleapis": "git+ssh://git@github.com:alexiskattan/google-api-nodejs-client.git"
     },
 	"devDependencies": {
 		"grunt": "^0.4.5",
